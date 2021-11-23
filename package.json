@@ -1,0 +1,19 @@
+{
+  "name": "cp003",
+  "version": "1.0.0",
+  "description": "Prueba tecnica cp003, casos de pruebas con Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automatizacion",
+    "cypress"
+  ],
+  "author": "Marianela Cortina",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.0.0"
+  }
+}
